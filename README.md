@@ -1,6 +1,6 @@
 # **Python-DSA-Implementations**
 
-## **Description 📚:\**  
+## **Description** 📚:\  
 This repository contains Python implementations of various data structures and algorithms commonly used in computer science. It serves as a reference for learning and implementing fundamental concepts such as sorting, searching, trees, graphs, dynamic programming, and more. The goal is to provide clean, easy-to-understand code for both beginners and advanced learners.
 
 ---
